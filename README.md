@@ -1,32 +1,32 @@
 ## WHAT IS THIS?
 
-This is my README, a document intended to help introduce you to myself, my working style, philosophy and expectations.
+This is my README, a document intended to help introduce myself, my working style, philosophy and expectations to you.
 The intended audience is primarily anyone who is directly involved in working with me, though anyone is free to read it as well as provide feedback on it.
 
 Please hold me accountable to my promises and call out anything that might be missing from this document.
 
-This document was inspired by several others found online, few parts of it have been reported when particularly resonating with the concepts I wanted to express.
+This document was inspired by several others found online, and parts of them have been used when particularly resonating with the concepts I wanted to express.
 
 ## MY PRINCIPLES
 
-### Availability.
+### Availability
 
 I like being helpful quickly. In case I'm traveling you will be notified in advance.
 
 Sometimes I work on weekends but I do not expect you to do the same.
 
 
-### Humans come first.
+### Humans come first
 
 I am a strong advocate of a transparent culture and free flow of information. Happy humans buld awesome products and that's why I try hard to optimize for humans first.
 
 
-### Diversity.
+### Diversity
 
-All different perspectives and differences in ideologies are relevant and key to and effective team.
+All different perspectives and differences in ideologies are relevant and key to the success of the team.
 
 
-### System Vision.
+### System Vision
 
 I like to reduce complex things into systems to quickly find out issues. When I see inefficiencies in systems, I'll be looking for your help to fix them.
 
